@@ -1,10 +1,10 @@
 # VuetifySearchbar
 
-> Straightforward premade Vuetify searchbar
-
 <p align="left">
   <img width="100%" height="auto" src="https://raw.githubusercontent.com/MaeseppTarvo/VuetifySearchbar/master/preview.png" alt="Example use">
 </p>
+
+> Straightforward premade Vuetify searchbar
 
 [![try it on codesandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/4zywwyjxw7)
 
